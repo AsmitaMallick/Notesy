@@ -1,5 +1,3 @@
-Yayyyyyy GreNxNja was here !!!!!
-
 # Notesy - Your User-Friendly Note-Taking App
 
 Welcome to Notesy, the ultimate note-taking experience designed for simplicity and efficiency. Crafted with HTML, CSS, and JS, this app ensures a seamless and enjoyable process for capturing and organizing your thoughts. Whether you're jotting down quick reminders or drafting detailed notes, Notesy is here to make the experience effortless.
